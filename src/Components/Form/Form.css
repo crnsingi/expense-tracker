@@ -1,0 +1,57 @@
+.form{
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+    width: 50rem;
+    padding: 2rem;
+    margin: auto;
+    margin-top: 3rem;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px 5px #d9e6f8;
+}
+
+.form-input{
+    border: 1px solid #C9DEF9;
+    border-radius: 10px;
+    padding: 0.4rem 1rem;
+    width: 15rem;
+    margin-left: 4.5rem;
+    outline: none;
+}
+
+.amount{
+    margin-left: 5rem;
+}
+
+.date{
+    margin-left: 6.5rem;
+}
+
+.message{
+    margin-left: 4.7rem;
+    width: 25rem;
+}
+
+.radio-button{
+    margin-left: 7rem;
+}
+
+.submit-button{
+    background-color: rgb(80, 151, 239);
+    color: white;
+    font-weight: 600;
+    font-size: medium;
+    padding: 0.4rem 0;
+    border: none;
+    border-radius: 25px;
+    margin-top: 2rem;
+    cursor: pointer;
+
+&:hover{
+    background-color: #4169e1;
+}
+}
+
+.display{
+    display: flex;
+}

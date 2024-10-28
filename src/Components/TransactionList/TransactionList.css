@@ -1,0 +1,32 @@
+.title{
+    text-align: center;
+    margin-top: 5rem;
+}
+
+.transactions{
+    margin-top: 3rem;
+}
+
+.transaction-list{
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid #C9DEF9;
+    border-radius: 25px;
+    padding: 0.6rem 3rem;
+    width: 30vw;
+    margin: 1rem 3rem ;
+}
+
+.transaction-list i{
+    cursor: pointer;
+}
+
+.income{
+    color: green;
+    font-weight: 900;
+}
+
+.expense{
+    color: red;
+    font-weight: 900;
+}
