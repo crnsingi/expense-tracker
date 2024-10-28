@@ -1,6 +1,5 @@
 # Expense Tracker Application
-
-## Developed a robust Expense Tracker application aimed at empowering users to effectively manage and monitor their personal finances. Key features and technologies include:
+Developed an Expense Tracker application aimed at empowering users to effectively manage and monitor their personal finances. Key features and technologies include:
 
 ### Transaction Management: 
 Enables users to log and categorize transactions as income or expense, with details including amount and description. The transaction list dynamically updates to reflect the latest entries.
@@ -16,6 +15,13 @@ Built with React, ensuring a responsive, user-friendly interface that adapts smo
 This project demonstrates expertise in developing interactive financial applications with real-time data processing and visually engaging analytics.
 
 ---
+
+#### Technologies </>
+##### React JS
+##### JS
+##### CSS
+##### Chart.js
+
 
 To run the code, follow the steps - 
 1. Run the command **npm install** in terminal to install all dependencies
